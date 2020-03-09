@@ -1,6 +1,4 @@
-/* =============================
-GENERAL STYLES 
-================================ */
+
 body {
   font-family: "Raleway", sans-serif;
   text-align: center;
@@ -18,9 +16,7 @@ body {
   font-size: 0;
 }
 
-/* =============================
-TYPOGRAPHY
-================================ */
+
 h1, h2 {
   text-transform: uppercase;
 }
